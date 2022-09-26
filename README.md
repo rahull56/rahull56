@@ -66,3 +66,11 @@
             alt="c" width="40" height="40" /> 
     </a> 
 </p>
+
+<br><br>
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrahuls&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrahuls&layout=compact)](https://github.com/devrahuls/github-readme-stats)
+
+<img height="187em" alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com?user=devrahuls&theme=black-ice&date_format=j%20M%5B%20Y%5D"/>
