@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400"
     src="https://supportresort.com.au/images/dot_net_graphics1.png">
 
-<p align="left"> <a href="https://twitter.com/_dev_rahul" target="blank"><img
+<p align="left"> <a href="https://twitter.com/rahulstwt_" target="blank"><img
             src="https://img.shields.io/twitter/follow/_dev_rahul?logo=twitter&style=for-the-badge"
             alt="_dev_rahul" /></a> </p>
 
