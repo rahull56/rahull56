@@ -1,5 +1,5 @@
 <h1 align="center">
- Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rahul Saw
+ Hey 👋, I'm Rahul Saw
 </h1>
 
 <h3 align="center">A Technical Geek 🧑‍💻❤️🚀</h3>
