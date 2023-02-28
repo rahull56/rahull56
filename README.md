@@ -11,7 +11,7 @@
             src="https://img.shields.io/twitter/follow/rahulstwt_?logo=twitter&style=for-the-badge"
             alt="rahulstwt_" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio project**
+- 🔭 I’m currently working on **My Portfolio Website**
 
 - 🌱 I’m currently learning **MERN stack**
 
