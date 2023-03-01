@@ -24,15 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/_dev_rahul" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="_dev_rahul" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/rahul-kumar-saw/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="rahul-kumar-saw/" height="30" width="40" /></a>
-    <a href="https://instagram.com/_victorahul_" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="_victorahul_" height="30" width="40" /></a>
+    <a href="https://twitter.com/rahulstwt_" target="blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png" alt = "rahulstwt_"/></a>
+    <a href="https://linkedin.com/in/rahul-kumar-saw/" target="blank"><img src="https://img.icons8.com/color/48/null/linkedin-2--v1.png" alt = "rahul-kumar-saw/"/></a>
+    <a href="https://rahulsblogs.hashnode.dev/" target="blank"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>
 </p>
 
 
@@ -55,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+ <img src="https://img.icons8.com/ios/50/ffffff/express-js.png"/>
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
@@ -64,9 +58,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
         <a href="https://www.cprogramming.com/" target="_blank"
-        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c" width="40" height="40" /> 
+        rel="noreferrer">  <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
     </a> 
+    <a href = "https://www.java.com/en/">
+    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
+    </a>
 </p>
 
 
@@ -74,6 +70,6 @@
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrahuls&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrahuls&layout=compact)](https://github.com/devrahuls/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrahuls&layout=compact&theme=radical)](https://github.com/devrahuls/github-readme-stats)
 
-<img height="187em" alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com?user=devrahuls&theme=black-ice&date_format=j%20M%5B%20Y%5D"/>
+<img height="187em" alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com?user=devrahuls&theme=radical&date_format=j%20M%5B%20Y%5D"/>
