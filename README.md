@@ -4,12 +4,12 @@
 
 <h3 align="center">A Technical Geek 🧑‍💻❤️🚀</h3>
 
+
+<h3 align="left">About:</h3>
+
 <img align="right" alt="Coding" width="400"
     src="https://supportresort.com.au/images/dot_net_graphics1.png">
 
-<p align="left"> <a href="https://twitter.com/rahulstwt_" target="blank"><img
-            src="https://img.shields.io/twitter/follow/rahulstwt_?logo=twitter&style=for-the-badge"
-            alt="rahulstwt_" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
@@ -73,3 +73,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrahuls&layout=compact&theme=radical)](https://github.com/devrahuls/github-readme-stats)
 
 <img height="187em" alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com?user=devrahuls&theme=radical&date_format=j%20M%5B%20Y%5D"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahuls&label=Profile%20views&color=0e75b6&style=flat" alt="devrahulsProfileViews" />
+</p>
