@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **printfrahulsaw@gmail.com**
 
-- ⚡ Fun fact **I get always Hungry while doing Coding😅**
+- ⚡ Fun fact **I always get Hungry while Coding😅**
 
 
 <h3 align="left">Connect with me:</h3>
