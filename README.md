@@ -11,9 +11,9 @@
     src="https://supportresort.com.au/images/dot_net_graphics1.png">
 
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **React e-Commerce project** ⚛️🛒
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack and DSA** 🧩
 
 - 💬 Ask me about **Anything 😄**
 
