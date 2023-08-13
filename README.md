@@ -66,13 +66,30 @@
 </p>
 
 
+
+<!-- GitHub Stats -->
+
 <h3 align="left">GitHub Stats:</h3>
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrahuls&show_icons=true&theme=radical)
+<!-- The cards -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrahuls&layout=compact&theme=radical)](https://github.com/devrahuls/github-readme-stats)
+<p align="center">
+<a href="https://github.com/devrahuls" title="Redirect's to Rahul's Github">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=devrahuls&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+  
 
-<img height="187em" alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com?user=devrahuls&theme=radical&date_format=j%20M%5B%20Y%5D"/>
+<a href="https://github.com/devrahuls">
+<img width= "49%" title="Redirect's to Rahul's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=devrahuls&theme=dark&theme=black-ice&stroke=0000" /></a>
+
+
+<a href ="https://github.com/devrahuls" title="Redirect's to Rahul's Github">
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrahuls&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+
+<a href="https://github.com/devrahuls/carRental" title="Redirect's to Car Rental App Repository">
+<img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=devrahuls&repo=carRental&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahuls&label=Profile%20views&color=0e75b6&style=flat" alt="devrahulsProfileViews" />
 </p>
