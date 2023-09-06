@@ -29,7 +29,7 @@
     <a href="https://rahulsblogs.hashnode.dev/" target="blank"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>
 </p>
 
-
+/*Languages and tools logos*/
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -57,9 +57,10 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
-        <a href="https://www.cprogramming.com/" target="_blank"
-        rel="noreferrer">  <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
-    </a> 
+ 
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  
+         <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
+   </a> 
     <a href = "https://www.java.com/en/">
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
     </a>
