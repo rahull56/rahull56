@@ -29,7 +29,6 @@
     <a href="https://rahulsblogs.hashnode.dev/" target="blank"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>
 </p>
 
-/*Languages and tools logos*/
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
