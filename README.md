@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **MERN stack and DSA** 🧩
 
-- 💬 Ask me about **Anything 😄**
+- 💬 Ask me about **Anything 😊**
 
 - 📫 How to reach me **printfrahulsaw@gmail.com**
 
