@@ -11,7 +11,7 @@
     src="https://supportresort.com.au/images/dot_net_graphics1.png">
 
 
-- 🔭 I’m currently working on **Social Media with MERN** ⚛️📱
+- 🔭 I’m currently working on **Solving Leetcode Problems** ⚛️
 
 - 🌱 I’m currently learning **MERN stack and DSA** 🧩
 
