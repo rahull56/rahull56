@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Solving Leetcode Problems** 🔢📝
 
-- 🌱 I’m currently learning **MERN stack and DSA** 🧩
+- 🌱 I’m currently learning **Web Development stack and DSA** 🧩
 
 - 💬 Ask me about **Anything 😊**
 
