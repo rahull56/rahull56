@@ -11,7 +11,7 @@
     src="https://supportresort.com.au/images/dot_net_graphics1.png">
 
 
-- 🔭 I’m currently working on **Web Scrapper Website for Amazon Products** 
+- 🔭 I’m currently working on **Web Scrapper Website for Amazon Products** 🪝
 
 - 🌱 I’m currently learning **Web Development stack and DSA** 🧩
 
