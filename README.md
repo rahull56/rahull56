@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Web Scrapper Website for Amazon Products** 🪝
 
-- 🌱 I’m currently learning **Web Development stack and DSA** 🧩
+- 🌱 I’m currently learning **Backend Development and DSA** 🧩
 
 - 💬 Ask me about **Anything 😊**
 
