@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I always get Hungry while Coding😅**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
     <a href="https://twitter.com/rahulstwt_" target="blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png" alt = "rahulstwt_"/></a>
     <a href="https://linkedin.com/in/rahul-kumar-saw/" target="blank"><img src="https://img.icons8.com/color/48/null/linkedin-2--v1.png" alt = "rahul-kumar-saw/"/></a>
