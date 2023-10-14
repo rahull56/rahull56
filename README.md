@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Anything 😊**
 
-- 📫 How to reach me **printfrahulsaw@gmail.com**
+- 📫 How to reach me out **printfrahulsaw@gmail.com**
 
 - ⚡ Fun fact **I always get Hungry while Coding😅**
 
