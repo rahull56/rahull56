@@ -29,7 +29,7 @@
     <a href="https://rahulsblogs.hashnode.dev/" target="blank"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">Languages & Tools :</h3>
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
