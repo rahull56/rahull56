@@ -19,8 +19,6 @@ or <a href="mailto:printfrahulsaw@gmail.com" target='_blank'><b>Email</b></a> me
 <p align='justify'>
 My name is <strong>Rahul Saw</strong>, and I am a <strong><em>Aspiring Software Engineer</em></strong>. I am pursuing my Bachelor of Technology course from Roorkee Institute of Technology in Roorkee, India, with a major in Computer Science and Engineering. I have a strong focus on web development, particularly in frontend technologies such as <strong>ReactJS</strong> and <strong>NextJS</strong>. I am constantly striving to enhance my skills as a software engineer.
 
-I am passionate about learning and have a keen eye for detail. I am always eager to acquire new knowledge and enjoy bringing innovative ideas to life. I believe that every task becomes an art form when approached with mindfulness.
-
 As a creative and proficient Frontend Developer, I have successfully worked on various web projects for clients across different industries. My expertise lies in responsive design, accessibility, and website optimization. Additionally, I have completed several online certification courses. I am a problem-solver with excellent communication skills, and I thrive under pressure. My commitment is to deliver high-quality solutions that not only meet user needs but also exceed client expectations.
 
 Currently, I am focused on expanding my knowledge of JavaScript, ReactJS, and NextJS, and I am actively engaged in furthering my expertise in these areas.
