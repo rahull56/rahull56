@@ -6,7 +6,11 @@
 
 <div align="center">
     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=devrahuls&label=Profile%20Views&color=6&icon=0&pretty=true" />
+        <img src="https://visitcount.itsvg.in/api?id=devrahuls&label=Profile%20Views&color=6&icon=0&pretty=true" />
+    </a> 
+    <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+    <a href="https://drive.google.com/file/d/1i8B9OxTA6OcTdnJ4i0XerPhhpGSRL6jF/view?usp=sharing">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Get%20My%20Resume-312f80?style=flat">
     </a>
 </div>
 
