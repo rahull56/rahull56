@@ -33,22 +33,6 @@ Currently, I am focused on expanding my knowledge of JavaScript, ReactJS, and Ne
 
 </p>
 
-### More
-```json
-[
-    "Name": "Rahul Saw",
-    "Pronouns": [
-        "He", "Him"
-    ],
-    "Lives In": "Roorkee, India",
-    "I Code's in": [
-        "HTML", "CSS", "Javascript", "React", "NextJS", "Java"
-    ],
-    "Traits": [
-        "Dev", "Design", "Content Writer"
-    ]
-]
-```
 
 ## Tech Stack
 Property | Data
